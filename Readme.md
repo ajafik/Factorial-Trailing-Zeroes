@@ -1,1 +1,3 @@
-##factorial_trailing_zeroes
+## Factorial trailing zeroes
+
+> Given N is an integer.
